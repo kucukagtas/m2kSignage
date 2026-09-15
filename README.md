@@ -44,13 +44,13 @@ The website delivers a fast, fluid user experience with pure semantic HTML5 and 
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-| :--- | :--- |
-| **HTML5** | Semantic structure, accessibility (`aria-label`, meta viewport, SEO) |
-| **CSS3** | Custom variables (design tokens), Flexbox, CSS Grid, Glassmorphism (`backdrop-filter`) |
-| **Google Fonts** | Typography using [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
-| **Font Awesome 6.5.1** | Vector icons for navigation, features, ratings, and social links |
-| **Netlify** | Continuous deployment and static site hosting |
+| Technology             | Purpose                                                                                |
+| :--------------------- | :------------------------------------------------------------------------------------- |
+| **HTML5**              | Semantic structure, accessibility (`aria-label`, meta viewport, SEO)                   |
+| **CSS3**               | Custom variables (design tokens), Flexbox, CSS Grid, Glassmorphism (`backdrop-filter`) |
+| **Google Fonts**       | Typography using [Open Sans](https://fonts.google.com/specimen/Open+Sans)              |
+| **Font Awesome 6.5.1** | Vector icons for navigation, features, ratings, and social links                       |
+| **Netlify**            | Continuous deployment and static site hosting                                          |
 
 ---
 
@@ -81,16 +81,19 @@ m2kSignage/
 To run this project locally on your machine:
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/kucukagtas/m2kSignage.git
 ```
 
 ### 2. Navigate to the project folder
+
 ```bash
 cd m2kSignage
 ```
 
 ### 3. Open in your browser
+
 - Simply double-click `index.html` to open it in your default web browser.
 - **Or** use a local development server (such as VS Code's **Live Server** extension or `npx serve`):
   ```bash
@@ -110,9 +113,3 @@ This project is deployed and hosted on **Netlify** with automated CI/CD directly
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  Crafted with ❤️ by <a href="https://github.com/kucukagtas">Muhammed K.</a>
-</div>
